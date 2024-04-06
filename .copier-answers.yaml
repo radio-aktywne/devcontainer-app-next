@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.8.0
+_src_path: gh:radio-aktywne/template-devcontainer
+accountname: radio-aktywne
+description: Devcontainer for Next.js apps ⚫
+devcontainername: app-next
+docs: true
+docsurl: https://radio-aktywne.github.io/devcontainer-app-next
+imagename: devcontainers/app-next
+registry: true
+releases: true
+reponame: devcontainer-app-next
+repourl: https://github.com/radio-aktywne/devcontainer-app-next
